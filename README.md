@@ -16,6 +16,7 @@ A simple but secure Streamlit-based application to **encrypt and store sensitive
 - [Streamlit](https://streamlit.io/) — Web app framework
 - [cryptography](https://cryptography.io/en/latest/) — Secure key derivation and encryption
 - Python standard libraries (`hashlib`, `os`, `base64`, `json`)
+- Live Link : https://dataencryptiondecryptiondata-saadahmedacademy.streamlit.app/
 
 ## 🚀 Getting Started
 
